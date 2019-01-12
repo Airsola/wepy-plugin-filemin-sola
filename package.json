@@ -40,7 +40,7 @@
   ],
   "license": "MIT",
   "main": "lib/index.js",
-  "name": "wepy-plugin-filemin-sola",
+  "name": "wepy-plugin-filemin",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
